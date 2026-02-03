@@ -1,1 +1,1 @@
-Frontend Developer at Veramed Health Solution | React.js | Next.js | Modern UI | Healthcare Applications
+Frontend Developer at Veramed Health Solutions | React.js, Next.js | Building Scalable Healthcare Applications with Modern UI & Optimized Performance
